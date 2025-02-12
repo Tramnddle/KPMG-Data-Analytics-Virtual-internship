@@ -50,7 +50,7 @@ Throughout the internship, I completed a series of analytical and visualization 
 To access the contents of this repository, clone it using the following command:
 
 ```sh
-git clone 
+git clone https://github.com/Tramnddle/KPMG-Data-Analytics-Virtual-internship.git
 ```
 
 Navigate through the files to explore the workflow and key insights extracted from the data.
